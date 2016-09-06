@@ -1,5 +1,4 @@
-FROM stilliard/pure-ftpd
-MAINTAINER Nikita Korotkih <nikita.korotkih@gmail.com>
+FROM spoonest/docker-pure-ftpd
 
 RUN apt-get update -y
 RUN apt-get install -y python python-pip
