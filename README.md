@@ -1,5 +1,5 @@
 # FORK for testing purpose
-This gem is created for testing purpose. Please use original gem by the link https://github.com/nik-kor/dockerfiles
+This Dockerfile is forked for testing purpose. Please use original code by the link https://github.com/nik-kor/dockerfiles
 
 # To run container:
 
